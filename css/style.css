@@ -294,3 +294,11 @@ grid-gap: 1rem;
   #main-footer .footer-container input[type='submit'] {
     width: 90%;
   }
+
+  .mypic img {
+      border-radius: 50%;
+  }
+
+  .mypic h2, p {
+    text-align: center;
+}
